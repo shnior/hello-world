@@ -1,3 +1,4 @@
 # hello-world
 הכי יפה
-mai name shnior aizenbach
+my name shnior aizenbach
+I commit to all sections
